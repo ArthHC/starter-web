@@ -8,6 +8,10 @@ New paragraph
 
 ## Purpose
 
+This the pourpose
+
 ## Deployment
+
+This is how it's going to be deployed
 
 ## How to contribute
