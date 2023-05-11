@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arthur Cibok ahcibok@gmail.com
 
 # THANKS
 
