@@ -4,11 +4,11 @@ This is a simple website project for showing hoe to use Git and Github together
 
 ## Introduction
 
-New paragraph Adidng text
+New paragraph Adidng text, Another from my feature branch
 
 ## Purpose
 
-This the pourpose
+This the pourpose.  
 
 ## Deployment
 
