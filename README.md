@@ -16,6 +16,8 @@ This is how it's going to be deployed
 
 ## How to contribute
 
+Help us please
+
 ### Copyright
 
 Git.Training.
