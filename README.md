@@ -15,3 +15,7 @@ This the pourpose
 This is how it's going to be deployed
 
 ## How to contribute
+
+### Copyright
+
+Git.Training.
